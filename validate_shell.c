@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * validator_getline - validator input
+ * validator_getline - Validator input
  * @void: parameter input
  *
  * Return: buffer
