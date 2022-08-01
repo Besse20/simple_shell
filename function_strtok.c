@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * function_strtok - function strtok
+ * function_strtok - Function strtok
  * @buffer: pointer at buffer
  * @pointer: pointer
  *
