@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * get_path - get path
+ * get_path - Get path
  * @command: command get
  *
  * Return: file
