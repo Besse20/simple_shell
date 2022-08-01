@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * function_fork - function split directory
+ * function_fork - Function split directory
  * @buffer: pointer
  * @command: double pointer
  * @argv: argument[0]
