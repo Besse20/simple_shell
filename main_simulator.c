@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * main - SIMULATOR PROGRAM SHELL
+ * main -simulator program simple shell
  * @argc: Unused argument
  * @argv: argument[0]
  * Return: function will always return 0
